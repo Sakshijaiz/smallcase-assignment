@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/cucumber-core-6.10.4.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/seleniumFiles/jar/testng-6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
